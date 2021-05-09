@@ -1,6 +1,6 @@
 # ECE6357-AES-Encryption
 
-All .mat files are message/keys used to test the code. At this time, it is set up to only takes hex message/keys. As far as I can tell it is working correctly. The 128/192/256 indicates the key length of the sample.
+All .mat files are message/keys used to test the code. It is set up to only takes hex message/keys. As far as I can tell, it is working correctly. (The 128/192/256 indicates the key length of the sample.)
 
 AES.m - Used as a 1 shot to both encrypt/decrypt at the same time. Calls AES_encrypt.m & AES_decrypt.m
 
